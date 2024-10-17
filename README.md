@@ -2,8 +2,7 @@
 
 
 1. Introduction
-In this project, we explored the California Housing and Titanic Survival datasets to predict housing prices and passenger
-survival. The process began with data analysis and visualization, which was crucial for a comprehensive understanding
+In this project, we explored the California Housing dataset to predict housing prices. The process began with data analysis and visualization, which was crucial for a comprehensive understanding
 of the factors at play. Data pre-processing followed, streamlining the datasets for the subsequent application of machine
 learning models. During this stage, the pivotal task was feature scaling, crucial for maintaining a balanced influence of all
 variables in the predictive process. We then separated target outcomes from features, with normalization to ensure data
